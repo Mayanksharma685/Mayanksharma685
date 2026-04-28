@@ -9,40 +9,28 @@
 
 ---
 
-# 💫 About Me
+## 💫 About Me  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFE0&center=true&vCenter=true&width=600&lines=Turning+Ideas+into+Code;C%2B%2B+%7C+Full+Stack+%7C+Builder;Focused+on+Real+World+Impact"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFE0&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer;Full+Stack+Engineer;Building+Real+World+Systems"/>
 </p>
 ---
 <p align="center">
-🚀 <b><span style="color:#00ffe0;">CORE FOCUS</span></b>  
-<b>C++ • DSA • Problem Solving • Strong Logic Building</b>  
+<img src="https://img.shields.io/badge/Core-C%2B%2B%20%7C%20DSA%20%7C%20Problem%20Solving-00ffe0?style=for-the-badge&logo=c%2B%2B&logoColor=black"/>
 <br><br>
-⚙️ <b><span style="color:#ff0080;">ENGINEERING</span></b>  
-<b>Designing scalable systems using JavaScript & TypeScript</b>  
+<img src="https://img.shields.io/badge/Engineering-Scalable%20Systems%20%7C%20Backend%20Logic-ff0080?style=for-the-badge&logo=server&logoColor=white"/>
 <br><br>
-📱 <b><span style="color:#00c3ff;">CURRENTLY BUILDING</span></b>  
-<b>React Native Apps • Mobile-first Architecture</b>  
+<img src="https://img.shields.io/badge/Currently%20Building-React%20Native%20Apps%20%7C%20Mobile-00c3ff?style=for-the-badge&logo=react&logoColor=black"/>
 <br><br>
-🤖 <b><span style="color:#a855f7;">LEARNING</span></b>  
-<b>Generative AI • System Design • Modern Architectures</b>  
+<img src="https://img.shields.io/badge/Learning-GenAI%20%7C%20System%20Design-a855f7?style=for-the-badge&logo=openai&logoColor=white"/>
 <br><br>
-🧩 <b><span style="color:#22c55e;">MINDSET</span></b>  
-<b>Solving real-world problems with efficient & clean code</b>  
+<img src="https://img.shields.io/badge/Mindset-Real%20World%20Problem%20Solving-22c55e?style=for-the-badge"/>
 <br><br>
-💬 <b><span style="color:#facc15;">ASK ME ABOUT</span></b>  
-<b>Debugging • Backend Systems • Logical Thinking</b>  
+<img src="https://img.shields.io/badge/Ask%20Me-Debugging%20%7C%20Backend%20%7C%20Logic-facc15?style=for-the-badge"/>
 <br><br>
-⚡ <b><span style="color:#fb923c;">REALITY CHECK</span></b>  
-<b>I may seem rude — I’m just focused on building</b>  
+<img src="https://img.shields.io/badge/Reality-Focused%20%3E%20Talkative-fb923c?style=for-the-badge"/>
 </p>
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffe0,100:0f2027&height=2&section=footer"/>
-</p>
----
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00ffe0?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/mayank-sharma-a84775285/) 
 [![Email](https://img.shields.io/badge/Gmail-ff0055?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmamay685@gmail.com)
