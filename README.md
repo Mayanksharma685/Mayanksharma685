@@ -31,9 +31,17 @@
 <img src="https://img.shields.io/badge/Reality-Focused%20%3E%20Talkative-fb923c?style=for-the-badge"/>
 </p>
 ---
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00ffe0?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/mayank-sharma-a84775285/) 
-[![Email](https://img.shields.io/badge/Gmail-ff0055?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmamay685@gmail.com)
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayank-sharma-a84775285/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sharmamay685@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="55" />
+  </a>
+</p>
 
 ---
 
