@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFE0&center=true&vCenter=true&width=900&lines=C%2B%2B+Focused+Developer;Full+Stack+Engineer;React+%7C+Node+%7C+TypeScript;Building+Real+World+Systems;React+Native+%26+GenAI"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFE0&center=true&vCenter=true&width=900&lines=C%2B%2B+Focused+Developer;Full+Stack+Developer;React+%7C+Node+%7C+TypeScript;Building+Real+World+Systems;React+Native+%26+GenAI"/>
 </p>
 
 ---
