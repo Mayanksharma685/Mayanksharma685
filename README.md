@@ -1,100 +1,120 @@
-<!-- 🔥 Neon Hacker Banner -->
+<!-- ===================== HEADER ===================== -->
+<h1 align="center">
+  &lt; MAYANK SHARMA /&gt;
+</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mayank%20Sharma&fontSize=40&fontColor=00ffe0&animation=fadeIn&fontAlignY=35"/>
+  <b>C++ Focused Developer | Full Stack Engineer | Problem Solver</b>
 </p>
 
-<!-- ⚡ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFE0&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+%7C+Node+%7C+AI+Explorer;Building+Scalable+Systems;Always+Learning+New+Tech"/>
-</p>
-
----
-
-# 👋 Hey, I'm Mayank Sharma  
-
-### 💻 Full Stack Developer | 🚀 Tech Explorer | 🤖 Gen-AI Enthusiast  
-
----
-
-## 🧠 About Me  
-- 🔭 Currently working with **C++, JavaScript & TypeScript**  
-- 📱 Exploring **React Native**  
-- 🤖 Learning **Generative AI**  
-- 💬 Ask me anything about development  
-- ⚡ Fun fact: People think I’m rude 😆  
-
----
-
-## 🌐 Connect  
-<p align="center">
-  <a href="https://www.linkedin.com/in/mayank-sharma-a84775285/">
-    <img src="https://img.shields.io/badge/LinkedIn-00ffe0?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-  <a href="mailto:sharmamay685@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ff0080?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFE0&center=true&vCenter=true&width=900&lines=C%2B%2B+Focused+Developer;Full+Stack+Engineer;Building+Real+Systems;React+Native+%7C+GenAI"/>
 </p>
 
 ---
 
-## ⚡ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,next,nodejs,express,fastapi,mongodb,postgres,mysql,redis,docker,aws,firebase,tailwind&theme=dark" />
+<!-- ===================== ABOUT ===================== -->
+## 🧠 ABOUT
+
+<p>
+Strong in <b>C++ & Data Structures</b><br>
+Building scalable <b>full stack systems</b><br>
+Exploring <b>React Native & GenAI</b><br>
+Focused on <b>performance & system design</b><br>
+Reality: I build more than I talk
 </p>
 
 ---
 
-## 🚀 Featured Projects  
+<!-- ===================== DASHBOARD ===================== -->
+## 📊 GITHUB OVERVIEW
+
 <table>
 <tr>
-<td width="50%">
 
-### 🔥 QR Code Auth System  
-- Rotating QR authentication (5 sec refresh)  
-- Redis + Node.js backend  
-- Secure token validation  
-🚀 Tech: Node.js, Redis, React  
+<td align="center" width="33%">
+
+<b>Total Contributions</b><br>
+<img src="https://github-readme-stats.vercel.app/api?username=MayankSharma685&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </td>
 
-<td width="50%">
+<td align="center" width="33%">
 
-### 📱 React Native App  
-- Cross-platform mobile app  
-- Clean UI + performance optimized  
-🚀 Tech: React Native, TypeScript  
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🤖 AI-Based Alzheimer Detection  
-- ResNet-18 + SHAP  
-- Model explainability  
-🚀 Tech: Python, Deep Learning  
+<b>Current Streak</b><br>
+<img src="https://streak-stats.demolab.com?user=MayankSharma685&theme=highcontrast&hide_border=true&ring=ff8800&fire=ff8800&currStreakLabel=00ffe0"/>
 
 </td>
 
-<td width="50%">
+<td align="center" width="33%">
 
-### 🛒 E-Commerce Platform  
-- Full stack web app  
-- Auth + payment integration  
-🚀 Tech: MERN Stack  
+<b>Activity Stats</b><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MayankSharma685&theme=tokyonight"/>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats  
+<!-- ===================== GRAPH ===================== -->
+## 📈 CONTRIBUTION GRAPH
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MayankSharma685&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://streak-stats.demolab.com/?user=MayankSharma685&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MayankSharma685&theme=react-dark&hide_border=true&color=00ffe0&line=00ffe0"/>
 </p>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+## ⚡ TECH STACK
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,next,nodejs,express,mongodb,postgres,redis,docker,aws,firebase,tailwind&theme=dark" />
+</p>
+
+---
+
+<!-- ===================== PROJECTS ===================== -->
+## 🚀 FEATURED PROJECTS
+
+<table>
+<tr>
+
+<td width="50%">
+
+<b>🔐 QR-Based Authentication System</b><br><br>
+
+• Rotating QR (5 sec refresh)<br>
+• Redis token validation<br>
+• Secure login architecture<br>
+• Backend optimized system<br><br>
+
+<b>Tech:</b> Node.js • Redis • Express • React  
+
+</td>
+
+<td width="50%">
+
+<b>📱 Cross-Platform Mobile App</b><br><br>
+
+• Built using React Native<br>
+• Clean UI + high performance<br>
+• Scalable architecture<br>
+• Real-world usability<br><br>
+
+<b>Tech:</b> React Native • TypeScript  
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ===================== LANGUAGES ===================== -->
+## 📊 TOP LANGUAGES
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankSharma685&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -102,21 +122,23 @@
 
 ---
 
-## 🧠 Dev Quote  
+<!-- ===================== CONNECT ===================== -->
+## 🌐 CONNECT
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <a href="https://www.linkedin.com/in/mayank-sharma-a84775285/">
+    <img src="https://img.shields.io/badge/LinkedIn-00ffe0?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="mailto:sharmamay685@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ff0055?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🧬 Contributions  
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=MayankSharma685&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
+<!-- ===================== VIEWS ===================== -->
+## 👀 PROFILE VIEWS
 
----
-
-## 👀 Profile Views  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MayankSharma685&color=00ffe0&style=flat-square"/>
 </p>
@@ -124,5 +146,5 @@
 ---
 
 <p align="center">
-  <b>Code. Build. Break. Learn. Repeat.</b>
+  <b>&lt; Code. Build. Scale. Repeat. /&gt;</b>
 </p>
