@@ -9,29 +9,57 @@
 
 ---
 
-## 💫 About Me  
+## 💫 About Me
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFE0&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer;Full+Stack+Engineer;Building+Real+World+Systems"/>
 </p>
+
 ---
+
+<table>
+<tr>
+<td>
+
+🚀 <b>Core Focus</b>  
+C++ • DSA • Problem Solving • Strong Logic  
+
+<br>
+
+⚙️ <b>Engineering</b>  
+Scalable systems using JavaScript & TypeScript  
+
+<br>
+
+📱 <b>Currently Exploring</b>  
+React Native & Mobile App Development  
+
+</td>
+
+<td>
+
+🤖 <b>Learning</b>  
+Generative AI • System Design  
+
+<br>
+
+🧩 <b>Mindset</b>  
+Real-world problem solving with clean code  
+
+<br>
+
+💬 <b>Ask Me About</b>  
+Debugging • Backend • Logic  
+
+</td>
+</tr>
+</table>
+
+---
+
 <p align="center">
-<img src="https://img.shields.io/badge/Core-C%2B%2B%20%7C%20DSA%20%7C%20Problem%20Solving-00ffe0?style=for-the-badge&logo=c%2B%2B&logoColor=black"/>
-<br><br>
-<img src="https://img.shields.io/badge/Engineering-Scalable%20Systems%20%7C%20Backend%20Logic-ff0080?style=for-the-badge&logo=server&logoColor=white"/>
-<br><br>
-<img src="https://img.shields.io/badge/Currently%20Building-React%20Native%20Apps%20%7C%20Mobile-00c3ff?style=for-the-badge&logo=react&logoColor=black"/>
-<br><br>
-<img src="https://img.shields.io/badge/Learning-GenAI%20%7C%20System%20Design-a855f7?style=for-the-badge&logo=openai&logoColor=white"/>
-<br><br>
-<img src="https://img.shields.io/badge/Mindset-Real%20World%20Problem%20Solving-22c55e?style=for-the-badge"/>
-<br><br>
-<img src="https://img.shields.io/badge/Ask%20Me-Debugging%20%7C%20Backend%20%7C%20Logic-facc15?style=for-the-badge"/>
-<br><br>
-<img src="https://img.shields.io/badge/Reality-Focused%20%3E%20Talkative-fb923c?style=for-the-badge"/>
-</p>
----
-<!-- ===================== CONNECT ===================== -->
+  ⚡ <b>Focused > Talkative</b>
+</p><!-- ===================== CONNECT ===================== -->
 <h2 align="center">🌐 Connect</h2>
 
 <p align="center">
