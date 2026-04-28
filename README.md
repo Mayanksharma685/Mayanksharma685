@@ -1,24 +1,128 @@
-# 💫 About Me:
-🔭 I’m currently working on C++, JavaScript, TypeScript<br>🤝 I’m looking for help with growth and learning new tech features<br>🌱 I’m currently learning React-Native and gen-Ai<br>💬 Ask me about Anything  <br>⚡ Fun fact People thought that I am rude
+<!-- 🔥 Neon Hacker Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mayank%20Sharma&fontSize=40&fontColor=00ffe0&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-sharma-a84775285/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharmamay685@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MayankSharma685&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=MayankSharma685&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MayankSharma685&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MayankSharma685&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- ⚡ Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFE0&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+%7C+Node+%7C+AI+Explorer;Building+Scalable+Systems;Always+Learning+New+Tech"/>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=MayankSharma685&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👋 Hey, I'm Mayank Sharma  
+
+### 💻 Full Stack Developer | 🚀 Tech Explorer | 🤖 Gen-AI Enthusiast  
+
+---
+
+## 🧠 About Me  
+- 🔭 Currently working with **C++, JavaScript & TypeScript**  
+- 📱 Exploring **React Native**  
+- 🤖 Learning **Generative AI**  
+- 💬 Ask me anything about development  
+- ⚡ Fun fact: People think I’m rude 😆  
+
+---
+
+## 🌐 Connect  
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayank-sharma-a84775285/">
+    <img src="https://img.shields.io/badge/LinkedIn-00ffe0?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="mailto:sharmamay685@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ff0080?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,next,nodejs,express,fastapi,mongodb,postgres,mysql,redis,docker,aws,firebase,tailwind&theme=dark" />
+</p>
+
+---
+
+## 🚀 Featured Projects  
+<table>
+<tr>
+<td width="50%">
+
+### 🔥 QR Code Auth System  
+- Rotating QR authentication (5 sec refresh)  
+- Redis + Node.js backend  
+- Secure token validation  
+🚀 Tech: Node.js, Redis, React  
+
+</td>
+
+<td width="50%">
+
+### 📱 React Native App  
+- Cross-platform mobile app  
+- Clean UI + performance optimized  
+🚀 Tech: React Native, TypeScript  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 AI-Based Alzheimer Detection  
+- ResNet-18 + SHAP  
+- Model explainability  
+🚀 Tech: Python, Deep Learning  
+
+</td>
+
+<td width="50%">
+
+### 🛒 E-Commerce Platform  
+- Full stack web app  
+- Auth + payment integration  
+🚀 Tech: MERN Stack  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MayankSharma685&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=MayankSharma685&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankSharma685&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 Dev Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+## 🧬 Contributions  
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=MayankSharma685&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+## 👀 Profile Views  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MayankSharma685&color=00ffe0&style=flat-square"/>
+</p>
+
+---
+
+<p align="center">
+  <b>Code. Build. Break. Learn. Repeat.</b>
+</p>
