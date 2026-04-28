@@ -9,54 +9,19 @@
 
 ---
 
-## 💫 About Me
+# 💫 About Me:
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFE0&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer;Full+Stack+Engineer;Building+Real+World+Systems"/>
+<p align="left">
+
+🚀 <b style="color:#00ffe0;">Core Focus:</b> <b>C++ (DSA + Problem Solving + Strong Logic)</b><br>
+⚙️ <b style="color:#ff0080;">Engineering:</b> Building scalable systems with <b>JavaScript & TypeScript</b><br>
+📱 <b style="color:#00c3ff;">Currently Exploring:</b> <b>React Native & Mobile App Development</b><br>
+🤖 <b style="color:#a855f7;">Learning:</b> <b>Generative AI & modern system design</b><br>
+🧩 <b style="color:#22c55e;">Mindset:</b> Solving <b>real-world problems</b> with clean & efficient code<br>
+💬 <b style="color:#facc15;">Ask Me About:</b> Debugging, backend logic & system thinking<br>
+⚡ <b style="color:#fb923c;">Reality:</b> I may seem rude, but I’m just focused 😄  
+
 </p>
-
----
-
-<table>
-<tr>
-<td>
-
-🚀 <b>Core Focus</b>  
-C++ • DSA • Problem Solving • Strong Logic  
-
-<br>
-
-⚙️ <b>Engineering</b>  
-Scalable systems using JavaScript & TypeScript  
-
-<br>
-
-📱 <b>Currently Exploring</b>  
-React Native & Mobile App Development  
-
-</td>
-
-<td>
-
-🤖 <b>Learning</b>  
-Generative AI • System Design  
-
-<br>
-
-🧩 <b>Mindset</b>  
-Real-world problem solving with clean code  
-
-<br>
-
-💬 <b>Ask Me About</b>  
-Debugging • Backend • Logic  
-
-</td>
-</tr>
-</table>
-
----
-
 <p align="center">
   ⚡ <b>Focused > Talkative</b>
 </p><!-- ===================== CONNECT ===================== -->
