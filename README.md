@@ -9,22 +9,26 @@
 
 ---
 
-# 💫 About Me:
+## 💫 About Me  
 
-<p align="left">
-
-🚀 <b style="color:#00ffe0;">Core Focus:</b> <b>C++ (DSA + Problem Solving + Strong Logic)</b><br>
-⚙️ <b style="color:#ff0080;">Engineering:</b> Building scalable systems with <b>JavaScript & TypeScript</b><br>
-📱 <b style="color:#00c3ff;">Currently Exploring:</b> <b>React Native & Mobile App Development</b><br>
-🤖 <b style="color:#a855f7;">Learning:</b> <b>Generative AI & modern system design</b><br>
-🧩 <b style="color:#22c55e;">Mindset:</b> Solving <b>real-world problems</b> with clean & efficient code<br>
-💬 <b style="color:#facc15;">Ask Me About:</b> Debugging, backend logic & system thinking<br>
-⚡ <b style="color:#fb923c;">Reality:</b> I may seem rude, but I’m just focused 😄  
-
-</p>
 <p align="center">
-  ⚡ <b>Focused > Talkative</b>
-</p><!-- ===================== CONNECT ===================== -->
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFE0&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer;Full+Stack+Engineer;Building+Real+World+Systems"/>
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Core-C%2B%2B%20%7C%20DSA%20%7C%20Problem%20Solving-00ffe0?style=for-the-badge&logo=c%2B%2B&logoColor=black"/><br>
+<img src="https://img.shields.io/badge/Engineering-Scalable%20Systems%20%7C%20Backend%20Logic-ff0080?style=for-the-badge&logo=server&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Currently%20Building-React%20Native%20Apps%20%7C%20Mobile-00c3ff?style=for-the-badge&logo=react&logoColor=black"/><br>
+<img src="https://img.shields.io/badge/Learning-GenAI%20%7C%20System%20Design-a855f7?style=for-the-badge&logo=openai&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Mindset-Real%20World%20Problem%20Solving-22c55e?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/Ask%20Me-Debugging%20%7C%20Backend%20%7C%20Logic-facc15?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/Reality-Focused%20%3E%20Talkative-fb923c?style=for-the-badge"/>
+</p>
+
+---</p><!-- ===================== CONNECT ===================== -->
 <h2 align="center">🌐 Connect</h2>
 
 <p align="center">
