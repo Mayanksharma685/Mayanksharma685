@@ -31,16 +31,29 @@
 <img src="https://img.shields.io/badge/Reality-Focused%20%3E%20Talkative-fb923c?style=for-the-badge"/>
 </p>
 ---
-## 🌐 Connect With Me
+<!-- ===================== CONNECT ===================== -->
+<h2 align="center">🌐 Connect</h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffe0,100:0f2027&height=2&section=header"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mayank-sharma-a84775285/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:sharmamay685@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="55" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="60"/>
   </a>
+</p>
+
+<p align="center">
+  <sub style="color:gray;">Let’s build, connect & grow 🚀</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00ffe0&height=2&section=footer"/>
 </p>
 
 ---
